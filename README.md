@@ -1,2 +1,2 @@
-![logo](logo.png)
 # discordBot
+![logo](logo.png)
